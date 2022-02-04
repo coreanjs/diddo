@@ -2,7 +2,9 @@ html , body{ height:100.1%;text-align:center }
 
 * {margin:0px; padding:0px}
 
-img {border:0px}
+img {border:3px}
+
+.border {border-width : 3px; border-color: red; }
 
 a:link {color:#0f30ac !important;text-decoration: underline;}
 a:hover {color:#006cff !important;text-decoration: underline;}
