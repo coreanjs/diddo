@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='504.00pt' viewBox='0 0 720.00 504.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='360.00pt' viewBox='0 0 576.00 360.00'>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
@@ -13,79 +13,66 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHw1MDQuMDA='>
-    <rect x='0.00' y='0.00' width='720.00' height='504.00' />
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='360.00' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.00' y='-0.000000000000057' width='720.00' height='504.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA=)'>
+<rect x='0.00' y='0.00' width='576.00' height='360.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpNzIuMzF8NjQwLjUwfDIzLjE4fDQ1OC44Nw=='>
-    <rect x='72.31' y='23.18' width='568.20' height='435.70' />
+  <clipPath id='cpOTAuMDh8NDk2LjUwfDI1Ljc4fDMxMS45MQ=='>
+    <rect x='90.08' y='25.78' width='406.42' height='286.12' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpNzIuMzF8NjQwLjUwfDIzLjE4fDQ1OC44Nw==)'>
-<rect x='72.31' y='23.18' width='568.20' height='435.70' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' />
-<polyline points='72.31,371.65 640.50,371.65 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='72.31,236.82 640.50,236.82 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='72.31,101.98 640.50,101.98 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='72.31,439.07 640.50,439.07 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='72.31,304.23 640.50,304.23 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='72.31,169.40 640.50,169.40 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='72.31,34.57 640.50,34.57 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='356.40,458.87 356.40,23.18 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<rect x='238.03' y='218.89' width='236.75' height='220.18' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='238.03' y='73.32' width='236.75' height='145.57' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B79F00;' />
-<rect x='238.03' y='64.01' width='236.75' height='9.30' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BA38;' />
-<rect x='238.03' y='61.10' width='236.75' height='2.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BFC4;' />
-<rect x='238.03' y='60.12' width='236.75' height='0.98' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #619CFF;' />
-<rect x='238.03' y='59.57' width='236.75' height='0.55' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F564E3;' />
-<rect x='238.03' y='42.98' width='236.75' height='16.59' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;' />
-<text x='356.40' y='332.93' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>55.6%</text>
-<text x='356.40' y='150.05' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>36.8%</text>
-<text x='356.40' y='72.61' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.3%</text>
-<text x='356.40' y='66.51' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.7%</text>
-<text x='356.40' y='64.56' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
-<text x='356.40' y='63.80' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.1%</text>
-<text x='356.40' y='55.23' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>4.2%</text>
+<g clip-path='url(#cpOTAuMDh8NDk2LjUwfDI1Ljc4fDMxMS45MQ==)'>
+<rect x='90.08' y='25.78' width='406.42' height='286.12' style='stroke-width: 1.07;' />
+<rect x='242.49' y='154.31' width='101.61' height='144.59' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='242.49' y='58.71' width='101.61' height='95.60' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B79F00;' />
+<rect x='242.49' y='52.60' width='101.61' height='6.11' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BA38;' />
+<rect x='242.49' y='50.69' width='101.61' height='1.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BFC4;' />
+<rect x='242.49' y='50.05' width='101.61' height='0.64' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #619CFF;' />
+<rect x='242.49' y='49.68' width='101.61' height='0.36' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F564E3;' />
+<rect x='242.49' y='38.79' width='101.61' height='10.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;' />
+<text x='293.29' y='230.56' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='50.89px' lengthAdjust='spacingAndGlyphs'>산업 55.6%</text>
+<text x='293.29' y='110.46' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='50.89px' lengthAdjust='spacingAndGlyphs'>전환 36.8%</text>
 </g>
-<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw1MDQuMDA=)'>
-<text x='67.37' y='442.22' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='67.37' y='307.38' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='48.96px' lengthAdjust='spacingAndGlyphs'>200,000,000</text>
-<text x='67.37' y='172.55' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='48.96px' lengthAdjust='spacingAndGlyphs'>400,000,000</text>
-<text x='67.37' y='37.72' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='48.96px' lengthAdjust='spacingAndGlyphs'>600,000,000</text>
-<polyline points='69.57,439.07 72.31,439.07 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='69.57,304.23 72.31,304.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='69.57,169.40 72.31,169.40 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='69.57,34.57 72.31,34.57 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='356.40,461.61 356.40,458.87 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<text x='356.40' y='470.11' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.49px' lengthAdjust='spacingAndGlyphs'>NULL</text>
-<text transform='translate(13.36,241.03) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: Arial;' textLength='106.68px' lengthAdjust='spacingAndGlyphs'>온실가스배출량(tCO2-eq)</text>
-<rect x='651.46' y='167.23' width='63.06' height='147.59' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='656.94' y='181.74' style='font-size: 11.00px; font-family: Arial;' textLength='16.50px' lengthAdjust='spacingAndGlyphs'>부문</text>
-<rect x='656.94' y='188.38' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='189.09' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='656.94' y='205.66' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='206.37' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B79F00;' />
-<rect x='656.94' y='222.94' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='223.65' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BA38;' />
-<rect x='656.94' y='240.22' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='240.93' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BFC4;' />
-<rect x='656.94' y='257.50' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='258.21' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #619CFF;' />
-<rect x='656.94' y='274.78' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='275.49' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F564E3;' />
-<rect x='656.94' y='292.06' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='657.65' y='292.77' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;' />
-<text x='679.70' y='200.17' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>산업</text>
-<text x='679.70' y='217.45' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>전환</text>
-<text x='679.70' y='234.73' style='font-size: 8.80px; font-family: Arial;' textLength='19.81px' lengthAdjust='spacingAndGlyphs'>폐기물</text>
-<text x='679.70' y='252.01' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>건물</text>
-<text x='679.70' y='269.29' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>수송</text>
-<text x='679.70' y='286.57' style='font-size: 8.80px; font-family: Arial;' textLength='29.34px' lengthAdjust='spacingAndGlyphs'>공공·기타</text>
-<text x='679.70' y='303.85' style='font-size: 8.80px; font-family: Arial;' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>NA</text>
-<text x='72.31' y='14.93' style='font-size: 13.20px; font-family: Arial;' textLength='102.59px' lengthAdjust='spacingAndGlyphs'>온실가스 배출권거래제</text>
-<text x='640.50' y='496.67' text-anchor='end' style='font-size: 8.80px; font-family: Arial;' textLength='105.39px' lengthAdjust='spacingAndGlyphs'>제작:KIER, 데이터출처: NGMS</text>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA=)'>
+<text x='85.15' y='303.20' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='85.15' y='214.65' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='66.74px' lengthAdjust='spacingAndGlyphs'>200,000,000</text>
+<text x='85.15' y='126.11' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='66.74px' lengthAdjust='spacingAndGlyphs'>400,000,000</text>
+<text x='85.15' y='37.56' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='66.74px' lengthAdjust='spacingAndGlyphs'>600,000,000</text>
+<polyline points='87.34,298.90 90.08,298.90 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='87.34,210.36 90.08,210.36 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='87.34,121.81 90.08,121.81 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='87.34,33.26 90.08,33.26 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='293.29,314.65 293.29,311.91 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text x='293.29' y='325.44' text-anchor='middle' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='30.69px' lengthAdjust='spacingAndGlyphs'>NULL</text>
+<text transform='translate(13.36,168.85) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: Arial;' textLength='106.68px' lengthAdjust='spacingAndGlyphs'>온실가스배출량(tCO2-eq)</text>
+<rect x='507.46' y='95.05' width='63.06' height='147.59' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='512.94' y='109.56' style='font-size: 11.00px; font-family: Arial;' textLength='16.50px' lengthAdjust='spacingAndGlyphs'>부문</text>
+<rect x='512.94' y='116.20' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='116.91' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='512.94' y='133.48' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='134.19' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B79F00;' />
+<rect x='512.94' y='150.76' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='151.47' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BA38;' />
+<rect x='512.94' y='168.04' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='168.75' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BFC4;' />
+<rect x='512.94' y='185.32' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='186.03' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #619CFF;' />
+<rect x='512.94' y='202.60' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='203.31' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F564E3;' />
+<rect x='512.94' y='219.88' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='513.65' y='220.59' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;' />
+<text x='535.70' y='127.99' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>산업</text>
+<text x='535.70' y='145.27' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>전환</text>
+<text x='535.70' y='162.55' style='font-size: 8.80px; font-family: Arial;' textLength='19.81px' lengthAdjust='spacingAndGlyphs'>폐기물</text>
+<text x='535.70' y='179.83' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>건물</text>
+<text x='535.70' y='197.11' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>수송</text>
+<text x='535.70' y='214.39' style='font-size: 8.80px; font-family: Arial;' textLength='29.34px' lengthAdjust='spacingAndGlyphs'>공공·기타</text>
+<text x='535.70' y='231.67' style='font-size: 8.80px; font-family: Arial;' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>NA</text>
+<text x='90.08' y='16.93' style='font-size: 16.00px; font-family: Arial;' textLength='145.35px' lengthAdjust='spacingAndGlyphs'>부문별 온실가스 배출 비중</text>
+<text x='496.50' y='352.67' text-anchor='end' style='font-size: 8.80px; font-family: Arial;' textLength='105.39px' lengthAdjust='spacingAndGlyphs'>제작:KIER, 데이터출처: NGMS</text>
 </g>
 </svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='720.00pt' viewBox='0 0 720.00 720.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='576.00pt' viewBox='0 0 576.00 576.00'>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
@@ -13,181 +13,186 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHw3MjAuMDA='>
-    <rect x='0.00' y='0.00' width='720.00' height='720.00' />
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='576.00' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw3MjAuMDA=)'>
-<rect x='0.00' y='0.00' width='720.00' height='720.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+<rect x='-0.000000000000064' y='0.00' width='576.00' height='576.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTQwLjQ4fDY1MC4wNHw1LjQ4fDY4OC41MA=='>
-    <rect x='140.48' y='5.48' width='509.55' height='683.02' />
+  <clipPath id='cpMTgzLjAxfDUwNi4wNHwyNS43OHw1MjcuOTE='>
+    <rect x='183.01' y='25.78' width='323.03' height='502.12' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTQwLjQ4fDY1MC4wNHw1LjQ4fDY4OC41MA==)'>
-<rect x='140.48' y='5.48' width='509.55' height='683.02' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' />
-<polyline points='231.21,688.50 231.21,5.48 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='366.34,688.50 366.34,5.48 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='501.48,688.50 501.48,5.48 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='636.61,688.50 636.61,5.48 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,672.24 650.04,672.24 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,645.14 650.04,645.14 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,618.03 650.04,618.03 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,590.93 650.04,590.93 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,563.82 650.04,563.82 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,536.72 650.04,536.72 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,509.62 650.04,509.62 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,482.51 650.04,482.51 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,455.41 650.04,455.41 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,428.30 650.04,428.30 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,401.20 650.04,401.20 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,374.10 650.04,374.10 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,346.99 650.04,346.99 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,319.89 650.04,319.89 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,292.78 650.04,292.78 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,265.68 650.04,265.68 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,238.58 650.04,238.58 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,211.47 650.04,211.47 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,184.37 650.04,184.37 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,157.26 650.04,157.26 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,130.16 650.04,130.16 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,103.05 650.04,103.05 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,75.95 650.04,75.95 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,48.85 650.04,48.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='140.48,21.74 650.04,21.74 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='163.64,688.50 163.64,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='298.78,688.50 298.78,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='433.91,688.50 433.91,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<polyline points='569.05,688.50 569.05,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
-<rect x='163.64' y='9.55' width='463.23' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3A500;' />
-<rect x='163.64' y='36.65' width='258.83' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='63.75' width='109.68' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='90.86' width='88.14' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='117.96' width='71.94' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='145.07' width='45.51' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='172.17' width='32.06' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3A500;' />
-<rect x='163.64' y='199.27' width='31.58' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BF7D;' />
-<rect x='163.64' y='226.38' width='29.06' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='253.48' width='25.32' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='280.59' width='19.22' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='307.69' width='15.15' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='334.79' width='14.18' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='361.90' width='12.25' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='389.00' width='8.95' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='416.11' width='6.94' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='443.21' width='6.14' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='470.32' width='5.79' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='497.42' width='4.72' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00B0F6;' />
-<rect x='163.64' y='524.52' width='4.02' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='551.63' width='3.35' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E76BF3;' />
-<rect x='163.64' y='578.73' width='3.26' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='605.84' width='3.21' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='632.94' width='2.87' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='163.64' y='660.04' width='2.78' height='24.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<text x='626.87' y='25.69' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>34.3%</text>
-<text x='422.47' y='52.80' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>19.2%</text>
-<text x='273.32' y='79.90' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>8.1%</text>
-<text x='251.78' y='107.00' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>6.5%</text>
-<text x='235.58' y='134.11' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>5.3%</text>
-<text x='209.16' y='161.21' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>3.4%</text>
-<text x='195.70' y='188.32' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.4%</text>
-<text x='195.22' y='215.42' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.3%</text>
-<text x='192.70' y='242.52' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.2%</text>
-<text x='188.97' y='269.63' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.9%</text>
-<text x='182.87' y='296.73' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.4%</text>
-<text x='178.79' y='323.84' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.1%</text>
-<text x='177.82' y='350.94' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.0%</text>
-<text x='175.89' y='378.04' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.9%</text>
-<text x='172.60' y='405.15' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.7%</text>
-<text x='170.58' y='432.25' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.5%</text>
-<text x='169.78' y='459.36' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.5%</text>
-<text x='169.43' y='486.46' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.4%</text>
-<text x='168.36' y='513.57' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.3%</text>
-<text x='167.66' y='540.67' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.3%</text>
-<text x='166.99' y='567.77' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
-<text x='166.90' y='594.88' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
-<text x='166.85' y='621.98' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
-<text x='166.51' y='649.09' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
-<text x='166.42' y='676.19' text-anchor='middle' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
+<g clip-path='url(#cpMTgzLjAxfDUwNi4wNHwyNS43OHw1MjcuOTE=)'>
+<rect x='183.01' y='25.78' width='323.03' height='502.12' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' />
+<polyline points='234.40,527.91 234.40,25.78 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='307.81,527.91 307.81,25.78 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='381.23,527.91 381.23,25.78 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='454.64,527.91 454.64,25.78 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,515.95 506.04,515.95 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,496.03 506.04,496.03 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,476.10 506.04,476.10 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,456.18 506.04,456.18 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,436.25 506.04,436.25 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,416.32 506.04,416.32 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,396.40 506.04,396.40 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,376.47 506.04,376.47 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,356.55 506.04,356.55 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,336.62 506.04,336.62 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,316.70 506.04,316.70 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,296.77 506.04,296.77 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,276.85 506.04,276.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,256.92 506.04,256.92 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,236.99 506.04,236.99 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,217.07 506.04,217.07 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,197.14 506.04,197.14 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,177.22 506.04,177.22 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,157.29 506.04,157.29 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,137.37 506.04,137.37 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,117.44 506.04,117.44 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,97.52 506.04,97.52 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,77.59 506.04,77.59 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,57.66 506.04,57.66 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='183.01,37.74 506.04,37.74 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='197.69,527.91 197.69,25.78 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='271.11,527.91 271.11,25.78 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='344.52,527.91 344.52,25.78 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='417.94,527.91 417.94,25.78 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='491.35,527.91 491.35,25.78 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<rect x='197.69' y='28.77' width='251.67' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3A500;' />
+<rect x='197.69' y='48.70' width='140.62' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='68.62' width='59.59' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='88.55' width='47.88' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='108.47' width='39.08' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='128.40' width='24.73' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='148.33' width='17.42' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3A500;' />
+<rect x='197.69' y='168.25' width='17.16' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BF7D;' />
+<rect x='197.69' y='188.18' width='15.79' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='208.10' width='13.76' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='228.03' width='10.44' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='247.95' width='8.23' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='267.88' width='7.70' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='287.80' width='6.66' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='307.73' width='4.86' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='327.66' width='3.77' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='347.58' width='3.33' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='367.51' width='3.15' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='387.43' width='2.56' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00B0F6;' />
+<rect x='197.69' y='407.36' width='2.18' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='427.28' width='1.82' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E76BF3;' />
+<rect x='197.69' y='447.21' width='1.77' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='467.13' width='1.74' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='487.06' width='1.56' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='197.69' y='506.99' width='1.51' height='17.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<text x='458.74' y='41.69' style='font-size: 11.04px; font-family: Arial;' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>34.3%</text>
+<text x='347.69' y='61.61' style='font-size: 11.04px; font-family: Arial;' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>19.2%</text>
+<text x='264.82' y='81.54' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>8.1%</text>
+<text x='253.12' y='101.46' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>6.5%</text>
+<text x='244.32' y='121.39' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>5.3%</text>
+<text x='229.96' y='141.32' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>3.4%</text>
+<text x='222.65' y='161.24' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.4%</text>
+<text x='222.39' y='181.17' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.3%</text>
+<text x='221.02' y='201.09' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>2.2%</text>
+<text x='218.99' y='221.02' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.9%</text>
+<text x='215.67' y='240.94' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.4%</text>
+<text x='213.46' y='260.87' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.1%</text>
+<text x='212.93' y='280.79' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>1.0%</text>
+<text x='211.89' y='300.72' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.9%</text>
+<text x='210.10' y='320.65' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.7%</text>
+<text x='209.00' y='340.57' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.5%</text>
+<text x='208.57' y='360.50' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.5%</text>
+<text x='208.38' y='380.42' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.4%</text>
+<text x='207.79' y='400.35' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.3%</text>
+<text x='207.42' y='420.27' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.3%</text>
+<text x='207.05' y='440.20' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
+<text x='207.00' y='460.12' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
+<text x='206.97' y='480.05' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
+<text x='206.79' y='499.98' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
+<text x='206.74' y='519.90' style='font-size: 11.04px; font-family: Arial;' textLength='25.14px' lengthAdjust='spacingAndGlyphs'>0.2%</text>
 </g>
-<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw3MjAuMDA=)'>
-<text x='135.55' y='675.39' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='51.11px' lengthAdjust='spacingAndGlyphs'>기타 식품 제조업</text>
-<text x='135.55' y='648.29' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='64.32px' lengthAdjust='spacingAndGlyphs'>기타 화학제품 제조업</text>
-<text x='135.55' y='621.18' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='79.97px' lengthAdjust='spacingAndGlyphs'>일차전지 및 축전지 제조업</text>
-<text x='135.55' y='594.08' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='57.72px' lengthAdjust='spacingAndGlyphs'>자동차 부품 제조업</text>
-<text x='135.55' y='566.97' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='51.11px' lengthAdjust='spacingAndGlyphs'>정기 항공 운송업</text>
-<text x='135.55' y='539.87' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='60.16px' lengthAdjust='spacingAndGlyphs'>선박 및 보트 건조업</text>
-<text x='135.55' y='512.77' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='35.46px' lengthAdjust='spacingAndGlyphs'>종합 소매업</text>
-<text x='135.55' y='485.66' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='95.62px' lengthAdjust='spacingAndGlyphs'>도자기 및 기타 요업제품 제조업</text>
-<text x='135.55' y='458.56' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='95.62px' lengthAdjust='spacingAndGlyphs'>자동차용 엔진 및 자동차 제조업</text>
-<text x='135.55' y='431.45' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='48.66px' lengthAdjust='spacingAndGlyphs'>화학섬유 제조업</text>
-<text x='135.55' y='404.35' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='33.01px' lengthAdjust='spacingAndGlyphs'>전기통신업</text>
-<text x='135.55' y='377.25' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='73.37px' lengthAdjust='spacingAndGlyphs'>유리 및 유리제품 제조업</text>
-<text x='135.55' y='350.14' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='102.23px' lengthAdjust='spacingAndGlyphs'>합성고무 및 플라스틱 물질 제조업</text>
-<text x='135.55' y='323.04' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='78.26px' lengthAdjust='spacingAndGlyphs'>펄프, 종이 및 판지 제조업</text>
-<text x='135.55' y='295.93' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='62.61px' lengthAdjust='spacingAndGlyphs'>1차 비철금속 제조업</text>
-<text x='135.55' y='268.83' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='48.66px' lengthAdjust='spacingAndGlyphs'>전자부품 제조업</text>
-<text x='135.55' y='241.73' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='117.14px' lengthAdjust='spacingAndGlyphs'>증기, 냉온수 및 공기조절 공급업(산업)</text>
-<text x='135.55' y='214.62' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='42.06px' lengthAdjust='spacingAndGlyphs'>폐기물 처리업</text>
-<text x='135.55' y='187.52' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='117.14px' lengthAdjust='spacingAndGlyphs'>증기, 냉온수 및 공기조절 공급업(전환)</text>
-<text x='135.55' y='160.41' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='42.06px' lengthAdjust='spacingAndGlyphs'>반도체 제조업</text>
-<text x='135.55' y='133.31' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='57.72px' lengthAdjust='spacingAndGlyphs'>석유 정제품 제조업</text>
-<text x='135.55' y='106.20' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='98.07px' lengthAdjust='spacingAndGlyphs'>시멘트, 석회 및 플라스터 제조업</text>
-<text x='135.55' y='79.10' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='61.87px' lengthAdjust='spacingAndGlyphs'>기초화학물질 제조업</text>
-<text x='135.55' y='52.00' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='49.41px' lengthAdjust='spacingAndGlyphs'>1차 철강 제조업</text>
-<text x='135.55' y='24.89' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='19.81px' lengthAdjust='spacingAndGlyphs'>전기업</text>
-<polyline points='137.74,672.24 140.48,672.24 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,645.14 140.48,645.14 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,618.03 140.48,618.03 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,590.93 140.48,590.93 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,563.82 140.48,563.82 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,536.72 140.48,536.72 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,509.62 140.48,509.62 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,482.51 140.48,482.51 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,455.41 140.48,455.41 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,428.30 140.48,428.30 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,401.20 140.48,401.20 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,374.10 140.48,374.10 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,346.99 140.48,346.99 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,319.89 140.48,319.89 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,292.78 140.48,292.78 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,265.68 140.48,265.68 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,238.58 140.48,238.58 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,211.47 140.48,211.47 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,184.37 140.48,184.37 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,157.26 140.48,157.26 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,130.16 140.48,130.16 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,103.05 140.48,103.05 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,75.95 140.48,75.95 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,48.85 140.48,48.85 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='137.74,21.74 140.48,21.74 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='163.64,691.24 163.64,688.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='298.78,691.24 298.78,688.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='433.91,691.24 433.91,688.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='569.05,691.24 569.05,688.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<text x='163.64' y='699.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='298.78' y='699.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>10</text>
-<text x='433.91' y='699.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text x='569.05' y='699.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>30</text>
-<text x='395.26' y='712.20' text-anchor='middle' style='font-size: 11.00px; font-family: Arial;' textLength='61.15px' lengthAdjust='spacingAndGlyphs'>pcttCO2sum</text>
-<text transform='translate(13.36,346.99) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: Arial;' textLength='143.08px' lengthAdjust='spacingAndGlyphs'>reorder(계획업종, pcttCO2sum)</text>
-<rect x='660.99' y='290.47' width='53.53' height='113.03' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='666.47' y='304.99' style='font-size: 11.00px; font-family: Arial;' textLength='16.50px' lengthAdjust='spacingAndGlyphs'>부문</text>
-<rect x='666.47' y='311.63' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='667.18' y='312.34' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='666.47' y='328.91' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='667.18' y='329.62' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3A500;' />
-<rect x='666.47' y='346.19' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='667.18' y='346.90' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BF7D;' />
-<rect x='666.47' y='363.47' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='667.18' y='364.18' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00B0F6;' />
-<rect x='666.47' y='380.75' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
-<rect x='667.18' y='381.46' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E76BF3;' />
-<text x='689.23' y='323.42' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>산업</text>
-<text x='689.23' y='340.70' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>전환</text>
-<text x='689.23' y='357.98' style='font-size: 8.80px; font-family: Arial;' textLength='19.81px' lengthAdjust='spacingAndGlyphs'>폐기물</text>
-<text x='689.23' y='375.26' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>건물</text>
-<text x='689.23' y='392.54' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>수송</text>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+<text x='178.07' y='520.25' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='69.67px' lengthAdjust='spacingAndGlyphs'>기타 식품 제조업</text>
+<text x='178.07' y='500.32' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='87.67px' lengthAdjust='spacingAndGlyphs'>기타 화학제품 제조업</text>
+<text x='178.07' y='480.40' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='109.00px' lengthAdjust='spacingAndGlyphs'>일차전지 및 축전지 제조업</text>
+<text x='178.07' y='460.47' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='78.67px' lengthAdjust='spacingAndGlyphs'>자동차 부품 제조업</text>
+<text x='178.07' y='440.55' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='69.67px' lengthAdjust='spacingAndGlyphs'>정기 항공 운송업</text>
+<text x='178.07' y='420.62' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='82.00px' lengthAdjust='spacingAndGlyphs'>선박 및 보트 건조업</text>
+<text x='178.07' y='400.70' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='48.33px' lengthAdjust='spacingAndGlyphs'>종합 소매업</text>
+<text x='178.07' y='380.77' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='130.33px' lengthAdjust='spacingAndGlyphs'>도자기 및 기타 요업제품 제조업</text>
+<text x='178.07' y='360.85' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='130.33px' lengthAdjust='spacingAndGlyphs'>자동차용 엔진 및 자동차 제조업</text>
+<text x='178.07' y='340.92' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='66.33px' lengthAdjust='spacingAndGlyphs'>화학섬유 제조업</text>
+<text x='178.07' y='321.00' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='45.00px' lengthAdjust='spacingAndGlyphs'>전기통신업</text>
+<text x='178.07' y='301.07' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='100.00px' lengthAdjust='spacingAndGlyphs'>유리 및 유리제품 제조업</text>
+<text x='178.07' y='281.14' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='139.33px' lengthAdjust='spacingAndGlyphs'>합성고무 및 플라스틱 물질 제조업</text>
+<text x='178.07' y='261.22' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='106.67px' lengthAdjust='spacingAndGlyphs'>펄프, 종이 및 판지 제조업</text>
+<text x='178.07' y='241.29' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='85.34px' lengthAdjust='spacingAndGlyphs'>1차 비철금속 제조업</text>
+<text x='178.07' y='221.37' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='66.33px' lengthAdjust='spacingAndGlyphs'>전자부품 제조업</text>
+<text x='178.07' y='201.44' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='159.66px' lengthAdjust='spacingAndGlyphs'>증기, 냉온수 및 공기조절 공급업(산업)</text>
+<text x='178.07' y='181.52' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>폐기물 처리업</text>
+<text x='178.07' y='161.59' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='159.66px' lengthAdjust='spacingAndGlyphs'>증기, 냉온수 및 공기조절 공급업(전환)</text>
+<text x='178.07' y='141.67' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>반도체 제조업</text>
+<text x='178.07' y='121.74' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='78.67px' lengthAdjust='spacingAndGlyphs'>석유 정제품 제조업</text>
+<text x='178.07' y='101.81' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='133.67px' lengthAdjust='spacingAndGlyphs'>시멘트, 석회 및 플라스터 제조업</text>
+<text x='178.07' y='81.89' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='84.33px' lengthAdjust='spacingAndGlyphs'>기초화학물질 제조업</text>
+<text x='178.07' y='61.96' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='67.34px' lengthAdjust='spacingAndGlyphs'>1차 철강 제조업</text>
+<text x='178.07' y='42.04' text-anchor='end' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='27.00px' lengthAdjust='spacingAndGlyphs'>전기업</text>
+<polyline points='180.27,515.95 183.01,515.95 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,496.03 183.01,496.03 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,476.10 183.01,476.10 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,456.18 183.01,456.18 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,436.25 183.01,436.25 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,416.32 183.01,416.32 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,396.40 183.01,396.40 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,376.47 183.01,376.47 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,356.55 183.01,356.55 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,336.62 183.01,336.62 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,316.70 183.01,316.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,296.77 183.01,296.77 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,276.85 183.01,276.85 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,256.92 183.01,256.92 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,236.99 183.01,236.99 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,217.07 183.01,217.07 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,197.14 183.01,197.14 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,177.22 183.01,177.22 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,157.29 183.01,157.29 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,137.37 183.01,137.37 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,117.44 183.01,117.44 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,97.52 183.01,97.52 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,77.59 183.01,77.59 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,57.66 183.01,57.66 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='180.27,37.74 183.01,37.74 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='197.69,530.65 197.69,527.91 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='271.11,530.65 271.11,527.91 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='344.52,530.65 344.52,527.91 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='417.94,530.65 417.94,527.91 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='491.35,530.65 491.35,527.91 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text x='197.69' y='541.44' text-anchor='middle' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='271.11' y='541.44' text-anchor='middle' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='344.52' y='541.44' text-anchor='middle' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='417.94' y='541.44' text-anchor='middle' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='491.35' y='541.44' text-anchor='middle' style='font-size: 12.00px; fill: #4D4D4D; font-family: Arial;' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='344.52' y='554.57' text-anchor='middle' style='font-size: 11.00px; font-family: Arial;' textLength='89.24px' lengthAdjust='spacingAndGlyphs'>온실가스 배출 비중(%)</text>
+<text transform='translate(13.36,276.85) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: Arial;' textLength='126.83px' lengthAdjust='spacingAndGlyphs'>한국표준산업분류(KSIC) 소분류</text>
+<rect x='516.99' y='220.33' width='53.53' height='113.03' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='522.47' y='234.84' style='font-size: 11.00px; font-family: Arial;' textLength='16.50px' lengthAdjust='spacingAndGlyphs'>부문</text>
+<rect x='522.47' y='241.48' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='523.18' y='242.19' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='522.47' y='258.76' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='523.18' y='259.47' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3A500;' />
+<rect x='522.47' y='276.04' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='523.18' y='276.75' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00BF7D;' />
+<rect x='522.47' y='293.32' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='523.18' y='294.03' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #00B0F6;' />
+<rect x='522.47' y='310.60' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='523.18' y='311.31' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E76BF3;' />
+<text x='545.23' y='253.27' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>산업</text>
+<text x='545.23' y='270.55' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>전환</text>
+<text x='545.23' y='287.83' style='font-size: 8.80px; font-family: Arial;' textLength='19.81px' lengthAdjust='spacingAndGlyphs'>폐기물</text>
+<text x='545.23' y='305.11' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>건물</text>
+<text x='545.23' y='322.39' style='font-size: 8.80px; font-family: Arial;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>수송</text>
+<text x='183.01' y='16.93' style='font-size: 16.00px; font-family: Arial;' textLength='331.16px' lengthAdjust='spacingAndGlyphs'>할당대상기업 관리업체 온실가스 배출량 분포 및 부문별 평균</text>
+<text x='506.04' y='568.67' text-anchor='end' style='font-size: 8.80px; font-family: Arial;' textLength='105.39px' lengthAdjust='spacingAndGlyphs'>제작:KIER, 데이터출처: NGMS</text>
 </g>
 </svg>
