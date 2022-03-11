@@ -1,0 +1,183 @@
+<!doctype html>
+<html>
+<head>
+  <title>디또's home</title>
+  <meta charset ="utf-8">
+  <link rel = "stylesheet", href ="./css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  
+  <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+
+  <div class="maintext">
+    <p><h1>2021년 1~12월 시군구별 전력판매량<br> 데이터 시각화  </h1></p>
+    
+    <a href ="https://home.kepco.co.kr/kepco/KO/ntcob/ntcobView.do?pageIndex=1&boardSeq=21055618&boardCd=BRD_000283&menuCd=FN05030105&parnScrpSeq=0&searchCondition=total&searchKeyword=">
+      <p><h3>데이터 출처 : 한국전력</h3>
+      </a>
+      </p>
+      </div>
+</p>
+
+      <!-- 주석 단축키 Ctrl + / -->
+
+      <div class="maintext">
+        <p><h2>1. 대한민국 전력 판매 분석 인트로</h2></p>
+      <p> 한국전력 전력통계는 시군구별 전력판매량 데이터를 제공한다.<br>
+       시군구별 용도업종별 전력판매량, 시군구별 계약종별별 전력판매량  데이터가 있다.<br>
+        용도업종은 무엇이 있나... 39개로 구분된다. <br>
+ 농업. 임업,
+ 금속비금속,
+ 식료품제조,
+ 섬      유,
+ 의복. 모피,
+ 가죽. 신발,
+ 목재. 나무,
+ 펄프. 종이,
+ 출판. 인쇄,
+ 화학  제품,
+ 고무. 플라,
+ 유      리,
+ 시  멘  트,
+ 1차   금속,
+ 조립  금속,
+ 기타  기계,
+ 전기  기기,
+ 영상. 음향,
+ 의료. 광학,
+ 자  동  차,
+ 기타  운송,
+ 가구및기타,
+ 수      도,
+ 사업자  용,
+ 가정용부문,
+ 국  군  용,
+ 기타공공용,
+ 관  공  용,
+ 순수써비스,
+      합 계,
+ 어      업,
+ 석유  정제,
+ 사무  기기,
+ 전      철,
+ 유엔군  용,
+ 음료품제조,
+ 재생  재료,
+ 석탄. 원유,
+ 담배제조업. <br>
+        되게 많다.. 구분하기엔 너무 많다. 리스트에서 일부를 캡처해보았다.<br><br>
+      </div>
+
+        <img class = "imgcenter" src="img/KEPCO.2020.Monthly/intro1.png" alt= "2020년">
+        <div class="maintext"><figcaption> Fig 1. 시군구별 용도업종(39개)별 전력사용량 스크린샷</figcaption>
+        <br><br></div>
+
+        <div class="maintext">
+        <p>계약종별로 보면 주택용,
+             일반용,
+             교육용,
+             산업용,
+             농사용,
+             가로등,
+               심야 6개로 구분된다. 자세한 내용은                
+               <a href ="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/D/C/CYDCHP00107.jsp">
+              여기서 확인 
+              </a>
+              가능합니다. 
+               <br><br>
+        </div>
+
+  
+          <img class = "imgcenter" src="img/KEPCO.2020.Monthly/intro2.png" alt= "2020년">
+
+          <div class="maintext"><figcaption> Fig.1 - 시군구별 계약종(5개)별 전력사용량 스크린샷</figcaption>
+          <br><br></div>
+
+          <div class="maintext">
+            2021년 총 전력판매량은 533.4TWh이며, 월별 전력판매량은 다음과 같다.<br>
+            전력 수요가 많은 동절기와 하절기에 전력 판매량이 증가하는 걸 확인할 수 있다.
+      
+
+       <img class = "imgcenter" src="img/KEPCO.2020.Monthly/KEPCO2021.monthly.svg" alt= "2020년">
+       <p><h2>2. 2021년 대한민국 지역별/계약종별 전력 판매 분석 </h2></p>
+        2021년 총 전력판매량은 533.4TWh이며, 계약종별로 구분하면 다음과 같다.
+        산업용이 2021년 전체 전력 판매량의 절반 이상을 차지하며, 일반용, 주택용, 농업용 순으로 판매 비중을 확인할 수 있다.
+   </p></div>
+  
+  <img class = "imgcenter" src="img/KEPCO.2020.Monthly/KEPCO2021.contract.svg" alt= "2020년">
+
+
+
+
+      <div class="maintext">
+    <p>17개광역지자체별로 전력 판매량을 파악해보자. 경기도가 전체의 1/4 정도를 차지하고 있으며,
+       그 뒤로 충청남도, 서울특별시, 경상북도 순으로 확인할 수 있다.
+
+    </h2></p>    
+
+  </div>
+  <img class = "imgcenter" src="img/KEPCO.2020.Monthly/KEPCO2021.regional.svg" alt= "2020년">
+
+
+    <div class="maintext">  <p><br> 
+        데이터 분석을 통해 살펴보았듯이 전력 판매의 절반 이상은 산업용이다. 이번에는 지역별로 산업용 판매가 어느정도
+        이루어지는지 확인해보자. 대부분 지자체는 산업용이 높은 비중을 보이나, 서울은 10.5%로 매우 낮다. 제주도도 11.9%로 확인된다.
+        서울과 제주는 산업의 비중이 타 지역에 비해 월등히 적은 것으로 파악된다.
+      </p>
+      </div>
+  
+      <img class = "imgcenter" src="img/KEPCO.2020.Monthly/KEPCO2021.regional.contracttype.svg" alt= "2020년">
+
+
+    <div class="maintext">  <p><br> 
+    이번에는 계약종별, 지역별로 그래프를 구분해서 확인해보자.
+    산업용 전력 판매량이 다른 계약종별 판매량에 비해 훨등히 높은 것이 보이며, 일반용과 주택용 또한 많은 판매가 되고 있음을 확인할 수 있다.
+    심야, 농사용, 가로등용 전력 판매량은 거의 구별이 안될 정도이다. 서울특별시의 경우는 일반용과 주택용의 비중이 대부분을 차지하는 것을 확인할 수 있다.
+    </p>
+    </div>
+
+    <img class = "imgcenter" src="img/KEPCO.2020.Monthly/KEPCO2021.regional.contracttype.facet.svg" alt= "top3">
+
+
+      
+
+    <div class="maintext">
+
+      <p><h2>3. 2021년 월별 대한민국 지역별/계약종별 전력 판매 분석 </h2></p>
+      <p>
+  2011년 월별 데이터 전력 판매량를 바탕으로 지역별/계약종별 구분해보자. 월별 데이터이기 떄문에 계절별로 전력 판매량 증감을 확인할 수 있을 것이다.
+산업용 전력에서는 월별 패턴 변화가 크게 나타나지는 않으며, 일반용과 주택용 전력의 경우 동절기와 하절기에 판매량이 눈에 띄게 증가하는 것을 확인할 수 있다.
+물론 전력 소비가 많은  경기도와 서울특별시의 경우를 말한다. 지자체별로 전력 소비량이 상대적으로 얼마나 차이가 나는지 확인하기 위해 그래프별로 동일한 축(6,000GWh)을
+적용하였다.<br><br>
+  산업용
+</p>    
+</div>
+
+
+  <img class = "imgcenter"  src="img/KEPCO.2020.Monthly/KEPCO2021.regional.industy.facet.svg" alt= "K-온실가스 배출">
+
+
+  <div class="maintext">
+    <p>일반용</p>    
+</div>
+  <img class = "imgcenter"  src="img/KEPCO.2020.Monthly/KEPCO2021.regional.general.facet.svg" alt= "K-온실가스 배출">
+
+  <div class="maintext">
+    <p>주택용</p>    
+</div>
+
+
+  <img class = "imgcenter"  src="img/KEPCO.2020.Monthly/KEPCO2021.regional.housing.facet.svg" alt= "K-온실가스 배출">
+
+
+
+
+
+
+
+   
+ 
+    </body>
+    </html>
