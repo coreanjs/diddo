@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+<head>
+  <title>디또's home</title>
+  <meta charset ="utf-8">
+  <link rel = "stylesheet", href ="./css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  
+  <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+    <div class=" "></div>
+
+  
+    <div class="maintext">
+      <p><h1>2020년 대한민국 전력거래량<br> 데이터 시각화  </h1></p>
+      
+      <a href ="https://www.data.go.kr/data/15081098/fileData.do">
+        <p><h3>데이터 출처 : 공공데이터포털</h3>
+        </a>
+        </p>
+        </div>
+
+        
+
+      <!-- MAIN -->
+    
+
+      <div class="maintext">
+        <p><h2>1.  인트로</h2></p>
+      <p>* 본 데이터는 전력시장에 참여하는 발전기의 전력거래량으로, 전기사업법 시행령 제19조 1항 2호에 따라 한국전력공사와 직접 거래하는 발전기, 자가용 등은 포함하지 않습니다.
+        전력거래량은 소내용 및 주변압기 손실분 등을 제외한 송전단 기준 발전량이며, 수정정산 등에 의해 값이 변동될 수 있습니다. <br><br></p>
+        </div>
+
+
+        <img class = "imgcenter" src="img/KPX.heatmap/calendar_2017_2020_total.svg" alt= "K-온실가스 배출">
+
+      <div class="maintext">
+        <p>전력거래소 데이터에 따르면 연료원은 유연탄, 원자력, LNG, 태양광, 풍력 등 23개 연료원으로 구분되며, 이 연료원들의 거래량의 합이
+          총 전력거래량이 된다.
+        위 그래프는 2017~2020년 4년 동안의 전력거래량을 보여준다. 대한민국에서는 연간 500TWh 이상의 전력이 거래되고 있으며,
+        분석 기간 중 2018년이 전력거래량이 가장 높았고, 2019, 2020년은 감소하고 있다.<br><br> </p>
+      </div>
+      
+    <img class = "imgcenter" src="img/KPX.heatmap/calendar_2017_2020_total_pct.svg" alt= "top3">
+
+    <div class="maintext">
+      연도별 전력거래량 비중을 살펴보자. 서두에 연료원은 23개로 구성된다고 하였으나, 이 데이터를 분석해보면 유연탄, 원자력, LNG가 대부분을 차지하고 있다. 
+      분석 기간이 충분히 길다고는 할 수 없으나, 2017-2020년 동안 유연탄의 비중(43.2->36%)은 점차 감소하고 있으며, 
+      원자력과 LNG가 감소한 유연탄의 비중을 채우고 있는 것을 확인할 수 있다. 
+      기타 연료원에는 신재생에너지가 포함되며  분석 기간 동안 비중은 큰 변화를 보이지 않는다. <br><br>
+    </div>
+
+
+    <div class="maintext">
+      <p><h2> 2017-2020 대한민국 전력거래량 히트맵</h2></p>
+      <p> 대한민국 전력거래량 히트맵을 제작하였다. 분석 기간 동안 일별 전력거래량을 히트맵을 통해 시각적으로 구현하였다. 
+</p>
+        </div>
+  
+  
+  
+<br><br>
+        <img class = "imgcenter" src="img/KPX.heatmap/calendar_heatmap_4years.svg" alt= "K-온실가스 배출" >
+
+        <div class="maintext">
+        <p> 
+          일별 전력거래량의 범위는 1 ~ 1.8TWh 사이이며, 붉은색일 수록 높은 값을 나타내며 범례를 통해 그 정도를 확인할 수 있다.
+          x축은 일년을 주차(week number)로 나타내었으며, y축은 위에서부터 아래로 요일(월화수목금토일)을 나타내었다.<br><br>
+          우선 동절기와 하절기에 전력거래량이 높은 것을 직관적으로 확인할 수 있다. 
+          또한 연도별로 2번씩 전력거래량이 낮게 보이는 특이점(3주~5주차, 36~40주차)이 보이는데,
+          이는 설날과 추석 연휴이다. 설/추석 연휴가 전력거래량에 미치는 영향이 큰 것으로 파악된다.
+          요일을 기준으로 볼 때에는 주중(월화수목금)과 주말(토일)의 거래량이 차이가 나는 것을 확인할 수 있다.</p>
+          </div>
+  
+
+          <img class = "imgcenter" src="img/KPX.heatmap/calendar_heatmap_4years_monthly.svg" alt= "K-온실가스 배출" >
+
+
+          <div class="maintext">
+            <p> 
+             위와 동일한 히트맵을 월별로 구분하여 보았다.<br><br>
+              동절기(1, 2, 12월)와 하절기(7, 8월)의 전력거래량이 높은 것은 급증한 냉난방수요에서 기인한 것으로 보인다.</p>
+              </div>
+
+
+<br><br>
+   <img class = "imgcenter" src="img/KPX.heatmap/KPX_weekday_weekend_2020.svg" alt= "K-온실가스 배출" >
+  
+   <div class="maintext">
+    <p> 
+     2020 전력거래량을 주중(평일)과 주말로 구분하여 나타내보았다.
+     평일과 주말의 전력거래량 차이를 확인할 수 있다. 2월과 10월에 전력거래량이 급격히 감소한 지점은 설/추석연휴이다.
+    </p>   <br><br>
+      </div>
+
+
+
+    <div class="maintext">
+
+    <h2>요일별 총전력거래량 패턴 분석</h2>
+    전력수요의 특징은 다음과 같이 정리할 수 있다. <br><br>
+    - 낮/밤 : 사람들이 아침에 일어나서 회사를 가고, 학교를 가고, 공장이 돌아가는 오전부터 낮12시까지 전력수요가 증가한다.
+              점심시간에 휴식을 취하기에 잠시 전력수요가 감소하였다가, 다시 증가하는 패턴이 보인다.
+              밤에는 퇴근하고 자야하니까 전기 수요가 줄어드는 게 자연스럽고...<br><br>
+    - 주중/주말 : 사람들이 대부분이 주중에 경제활동을 하기 때문에 주중과 주말을 비교했을 때 전력 수요 패턴이 크게 다르다.
+      주중 낮시간에는 증가하는 전력 수요가 확연히 보이며, 주말에는 낮시간이더라도 수요 증가가 크지 않은 것을 확인할 수 있다.</p>    
+
+      </div>
+      <img class = "imgcenter" src="img/KPX.heatmap/KPX_daily_2020.svg" alt= "K-온실가스 배출">
+      <br><br>
+  
+
+      
+    <div class="maintext">
+
+    
+    <p><h2>2. 2020년 대한민국 전력거래 달력</h2></p>
+
+
+    <p> 아래 이미지는 2020년 시간별 총 전력 거래량과 그 패턴을 나타낸다. 전체를 볼 때 3개행과 4개 열로 이루어진 전력거래 달력이라고 생각하면 된다.
+      좌측 최상단 1월부터 우측으로 2, 3, 4월이되고, 우측 최하단이 12월이다.(디자인 작업을 통해 월 표시를 해야 할 듯...)
+      작은 네모는 하루를 시간별(0->24시)로 나타낸 것이다. 아! 월화수목금토일 배치이다. 각 월의 우측 두 열이 토요일과 일요일을 나타낸다.
+    여기서 확연히 나타나는 것은 평일의 전력수요 변동이 주말보다 월등히 크다는 점이다. 위에서 설명하였듯, 경제활동을 많이 하는 평일에 전력 수요가 많고
+  그 수요에 대응하기 위한 전력이 거래되는 것이라고 볼 수 있다. 그리고 전력 수요가 높은 동절기(1,12월), 하절기(7,8월)에는 변동 폭이 더 큰것을 확인할 수 있다.
+전력 거래량이 많은 달은 히트맵을 통해 제시할 것이다. </p>    
+      </div>
+
+    <img class = "imgcenter" src="img/calendar_total_withYaxis.svg" alt= "K-온실가스 배출"><br><br>
+
+
+
+
+
+      
+    <div class="maintext">
+      <p><h2>마무리하며 </h2></p>
+      <p> ㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+        ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+        ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+      </p>
+        </div><br><br><br><br><br><br><br><br><br><br><br><br>
+  
+
+    </body>
+    </html>

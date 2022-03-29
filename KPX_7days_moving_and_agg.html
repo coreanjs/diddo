@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+  <title>디또's home</title>
+  <meta charset ="utf-8">
+  <link rel = "stylesheet", href ="./css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  
+  <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+
+  <div class="maintext">
+    <p><h1>2020년 대한민국 전력거래량<br> 데이터 시각화  </h1></p>
+    
+    <a href ="https://www.data.go.kr/data/15081098/fileData.do">
+      <p><h3>데이터 출처 : 공공데이터포털</h3>
+      </a>
+      </p>
+      </div>
+
+<div class="maintext">
+  <p><h2>1.  인트로</h2></p>
+<p>* 본 데이터는 전력시장에 참여하는 발전기의 전력거래량으로, 전기사업법 시행령 제19조 1항 2호에 따라 한국전력공사와 직접 거래하는 발전기, 자가용 등은 포함하지 않습니다.
+  전력거래량은 소내용 및 주변압기 손실분 등을 제외한 송전단 기준 발전량이며, 수정정산 등에 의해 값이 변동될 수 있습니다. <br><br></p>
+  </div>
+
+  <img class = "imgcenter"  src="img/KPX.7days.moving,avg/KPX_7days_moving.svg" alt= "K-온실가스 배출">
+  <div class="maintext">
+  <p>위 그래프는 2020년 전력거래량을 7일 이동평균으로 나타낸 결과이다. 전력 수요는 계절성을 띄고 있기에 동하절기에 전력 발전량이 많다. 
+    8-9월은 냉방 수요로 인해 전력거래량이 높은 것으로 봉며, 하절기에도 난방 수요로 인해 전력거래량이 높은 것을 확인할 수 있다.<br><br>
+  눈에 띄는 점은 2월과 10월의 하락폭인데, 이 날은 설연휴와 추석연휴이다. 공휴일에 사업장이 운영을 하지 않아 전력수요가 감소한 결과라 볼 수 있다.
+  전력거래량은 위에서 본 그래프처럼 단순한 증감을 보일까? 전력거래소는 시간대별 전력거래량 데이터를 제공하고 있으면 원본 데이터를 시각화한 결과를 아래에서 확인해보자.<br><br>
+  </div>
+
+  <img class = "imgcenter"  src="img/KPX.7days.moving,avg/KPX_hourly_2020.svg" alt= "K-온실가스 배출">
+  <div class="maintext">
+  <p>전력거래량의 변동 폭을 확인 할 수 있다. 하루를 기준으로 보면 전력수요가 많은 일과시간에는 증가하고, 심야시간에는 감소한다. 
+    일주일을 기준으로 보면 사무실, 학교, 공장 등을 운영하는 평일에는 전력거량이 높고, 주말에는 낮다.
+    <br><br></p>
+  </div>
+
+
+  <img class = "imgcenter"  src="img/KPX.7days.moving,avg/KPX_daily_2020.svg" alt= "K-온실가스 배출">
+  <div class="maintext">
+    <p>2020년 전력거래량을 요일별로 구분하여 나타내보면 위와 같다. 얇은 회식 실선은 실제 해당 요일의 전력거래량 패턴을 나타내며,
+      검은색 실선은 요일의 평균 패턴을 나타낸다. 이미 설명하였듯 평일과 주말의 전력거래 패턴이 다름을 확인 할 수 있다. <br><br>
+      평일에는 낮 12시 이전에 전력거래량이 피크에 도달하였다가 오후에 점차 증가하고, 저녁시간에 감소한다. 
+      이러한 폭이 두드러짐을 확인 할 수 있으나 주말에는 큰 패턴의 변화가 없이 일정하게 전력거래가 이루어짐을 확인할 수 있다.<br><br>
+      -끝-
+      <br><br></p>
+    </div>
+  
+
+
+
+
+<!-- 주석 단축키 Ctrl + / -->
+
+   
+
+
+  <img class = "imgcenter"  src="img/KPX.7days.moving,avg/KPX_7days_moving_and_agg.svg" alt= "K-온실가스 배출">
+
+
+
+
+
+
+
+
+
+   
+ 
+    </body>
+    </html>

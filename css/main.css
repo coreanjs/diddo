@@ -97,7 +97,7 @@ header .inner{
         justify-content: center;
         display:flex;
         flex-wrap:wrap;
-        padding : 0 1rem;
+        padding : 0 ;
         width: 100vmax;
         margin : 0 auto;
         font-size :8vw;
@@ -109,7 +109,7 @@ header .inner{
 
 .maintext{
     background-color: white;
-    width : 700px;
+    width : 600px;
     margin : 0 auto;
     font-size :2vh;
     font-weight: 400;
