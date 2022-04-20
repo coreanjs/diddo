@@ -1,0 +1,134 @@
+body{
+    margin : 0;
+    padding : 0;
+    color : #333;
+    background-color: white;
+    font-family: 'Noto Serif KR', serif;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* HEADER */
+
+header{
+    background-color: royalblue;
+}
+
+header .inner{
+    width : 1100px;
+    margin : 0 auto;
+    background-color: orange;
+}
+
+
+
+/* MAIN */
+
+.card-item {
+    display: flex;
+    margin-bottom : 2rem;
+    border : 1px blue solid;
+    flex-direction: column;
+    
+
+}
+
+
+.card-image{
+    height : 0;
+    padding-bottom: 60%;
+    background-repeat:  no-repeat;
+    background-position : center;
+    background-size : cover;
+}
+
+.card-image img{
+    display: none;
+}
+
+
+
+.card-desc{
+    flex : 1 1 auto;
+    padding : 1em;
+    background : pink;
+}
+.card-list{
+    display : flex;
+    flex-wrap : wrap;
+    margin : 0 -1rem;
+}
+
+@media (min-width : 600px){
+    .card-list{
+        display : flex;
+        flex-wrap : wrap;
+        margin : 0 -1rem;
+
+    }
+    .card-item {
+        width : 50%;
+        padding: 0 1rem;
+        
+    }
+    .card-list-con{
+        overflow-x: hidden;
+    }
+    
+}
+
+@media (min-width : 1200px) {
+    .card-item{
+        width : 30%;
+    }
+}
+
+
+@media (max-width : 800px){
+    body{
+        background-color: red;
+       
+    }
+    .maintext{
+        justify-content: center;
+        display:flex;
+        flex-wrap:wrap;
+        padding : 0 ;
+        width: 100vmax;
+        margin : 0 auto;
+        font-size :8vw;
+        font-weight: 400;
+        line-height:1.6;
+    }
+    
+}
+
+.maintext{
+    background-color: white;
+    width : 800px;
+    margin : 0 auto;
+    font-size :1.8vh;
+    font-weight: 400;
+    line-height:1.6;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+.imgcenter {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+      }
