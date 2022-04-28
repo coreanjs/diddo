@@ -500,11 +500,9 @@
 <circle cx='91.84' cy='254.34' r='1.95' style='stroke-width: 0.71; stroke: #F8766D; stroke-opacity: 0.55; fill: #F8766D; fill-opacity: 0.55;' />
 <circle cx='91.83' cy='254.34' r='1.95' style='stroke-width: 0.71; stroke: #F8766D; stroke-opacity: 0.55; fill: #F8766D; fill-opacity: 0.55;' />
 <circle cx='91.82' cy='254.34' r='1.95' style='stroke-width: 0.71; stroke: #F8766D; stroke-opacity: 0.55; fill: #F8766D; fill-opacity: 0.55;' />
-<line x1='169.07' y1='176.64' x2='162.22' y2='182.24' style='stroke-width: 1.07; stroke: #F8766D;' />
-<line x1='200.30' y1='216.75' x2='193.45' y2='222.36' style='stroke-width: 1.07; stroke: #F8766D;' />
+<line x1='169.10' y1='176.61' x2='162.22' y2='182.24' style='stroke-width: 1.07; stroke: #F8766D;' />
 <text x='343.04' y='60.01' text-anchor='middle' style='font-size: 11.04px; fill: #F8766D; font-family: Arial;' textLength='60.98px' lengthAdjust='spacingAndGlyphs'>주식회사 포스코</text>
-<text x='177.99' y='174.84' text-anchor='middle' style='font-size: 11.04px; fill: #F8766D; font-family: Arial;' textLength='69.25px' lengthAdjust='spacingAndGlyphs'>현대제철 주식회사</text>
-<text x='209.23' y='214.95' text-anchor='middle' style='font-size: 11.04px; fill: #F8766D; font-family: Arial;' textLength='69.25px' lengthAdjust='spacingAndGlyphs'>삼성전자 주식회사</text>
+<text x='178.02' y='174.81' text-anchor='middle' style='font-size: 11.04px; fill: #F8766D; font-family: Arial;' textLength='69.25px' lengthAdjust='spacingAndGlyphs'>현대제철 주식회사</text>
 </g>
 <g clip-path='url(#cpMC4wMHwxMDA4LjAwfDAuMDB8NTc2LjAw)'>
 </g>
@@ -570,15 +568,15 @@
 <circle cx='403.24' cy='254.22' r='1.95' style='stroke-width: 0.71; stroke: #B79F00; stroke-opacity: 0.55; fill: #B79F00; fill-opacity: 0.55;' />
 <circle cx='402.87' cy='254.31' r='1.95' style='stroke-width: 0.71; stroke: #B79F00; stroke-opacity: 0.55; fill: #B79F00; fill-opacity: 0.55;' />
 <circle cx='402.84' cy='254.31' r='1.95' style='stroke-width: 0.71; stroke: #B79F00; stroke-opacity: 0.55; fill: #B79F00; fill-opacity: 0.55;' />
-<line x1='668.89' y1='140.85' x2='676.98' y2='147.59' style='stroke-width: 1.07; stroke: #B79F00;' />
-<line x1='635.41' y1='159.82' x2='641.37' y2='166.49' style='stroke-width: 1.07; stroke: #B79F00;' />
-<line x1='653.19' y1='174.03' x2='646.63' y2='168.39' style='stroke-width: 1.07; stroke: #B79F00;' />
-<line x1='605.39' y1='196.31' x2='613.03' y2='182.93' style='stroke-width: 1.07; stroke: #B79F00;' />
-<text x='659.61' y='139.05' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='49.64px' lengthAdjust='spacingAndGlyphs'>한국남동발전</text>
-<text x='590.72' y='161.35' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='85.80px' lengthAdjust='spacingAndGlyphs'>한국동서발전 주식회사</text>
-<text x='659.61' y='183.73' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='49.64px' lengthAdjust='spacingAndGlyphs'>한국중부발전</text>
-<text x='573.83' y='183.65' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='49.64px' lengthAdjust='spacingAndGlyphs'>한국서부발전</text>
-<text x='604.58' y='206.01' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='85.80px' lengthAdjust='spacingAndGlyphs'>한국남부발전 주식회사</text>
+<line x1='668.94' y1='140.91' x2='676.98' y2='147.59' style='stroke-width: 1.07; stroke: #B79F00;' />
+<line x1='635.57' y1='159.88' x2='641.37' y2='166.48' style='stroke-width: 1.07; stroke: #B79F00;' />
+<line x1='653.18' y1='174.02' x2='646.63' y2='168.39' style='stroke-width: 1.07; stroke: #B79F00;' />
+<line x1='602.85' y1='196.28' x2='612.90' y2='182.88' style='stroke-width: 1.07; stroke: #B79F00;' />
+<text x='659.61' y='139.11' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='49.64px' lengthAdjust='spacingAndGlyphs'>한국남동발전</text>
+<text x='590.88' y='161.38' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='85.80px' lengthAdjust='spacingAndGlyphs'>한국동서발전 주식회사</text>
+<text x='659.61' y='183.72' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='49.64px' lengthAdjust='spacingAndGlyphs'>한국중부발전</text>
+<text x='573.68' y='183.67' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='49.64px' lengthAdjust='spacingAndGlyphs'>한국서부발전</text>
+<text x='600.80' y='205.98' text-anchor='middle' style='font-size: 11.04px; fill: #B79F00; font-family: Arial;' textLength='85.80px' lengthAdjust='spacingAndGlyphs'>한국남부발전 주식회사</text>
 </g>
 <g clip-path='url(#cpMC4wMHwxMDA4LjAwfDAuMDB8NTc2LjAw)'>
 </g>
@@ -818,6 +816,10 @@
 <polyline points='997.99,525.13 997.99,305.73 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
 <circle cx='722.16' cy='513.33' r='1.95' style='stroke-width: 0.71; stroke: #F564E3; stroke-opacity: 0.55; fill: #F564E3; fill-opacity: 0.55;' />
 <circle cx='714.64' cy='514.93' r='1.95' style='stroke-width: 0.71; stroke: #F564E3; stroke-opacity: 0.55; fill: #F564E3; fill-opacity: 0.55;' />
+<line x1='733.85' y1='497.50' x2='722.80' y2='512.46' style='stroke-width: 1.07; stroke: #F564E3;' />
+<line x1='728.78' y1='513.98' x2='715.99' y2='514.84' style='stroke-width: 1.07; stroke: #F564E3;' />
+<text x='736.00' y='495.70' text-anchor='middle' style='font-size: 11.04px; fill: #F564E3; font-family: Arial;' textLength='57.91px' lengthAdjust='spacingAndGlyphs'>한국수자원공사</text>
+<text x='783.89' y='517.93' text-anchor='middle' style='font-size: 11.04px; fill: #F564E3; font-family: Arial;' textLength='106.62px' lengthAdjust='spacingAndGlyphs'>베올리아워터코리아대산(주)</text>
 </g>
 <g clip-path='url(#cpMC4wMHwxMDA4LjAwfDAuMDB8NTc2LjAw)'>
 </g>
